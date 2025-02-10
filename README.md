@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Contact Me  
-📧 **Email:** [nisit.noonuan@example.com](mailto:nisit.noonuan@gmai.com)  
+📧 **Email:** [nisit.noonuan@example.com](mailto:nisit.noonuan@gmail.com)  
 🔗 **GitHub:** [github.com/nisit-noonuan](https://github.com/NEMENACk06)  
 🔗 **LinkedIn:** [linkedin.com/in/nisit-noonuan](https://www.linkedin.com/in/nisit-noonuan-b49115337/)  
 
